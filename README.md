@@ -1,7 +1,7 @@
 This library suffers from some
 [fundamental problems](http://commonsware.com/blog/2014/12/01/my-mistakes-cwac-camera.html).
 New projects should look elsewhere, and existing projects should plan
-on migrating to something else.
+on migrating to something else. **This library is discontinued and deprecated**.
 
 Options include:
 
